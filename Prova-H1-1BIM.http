@@ -1,0 +1,6 @@
+@Prova_H1_1BIM_HostAddress = http://localhost:5237
+
+GET {{Prova_H1_1BIM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

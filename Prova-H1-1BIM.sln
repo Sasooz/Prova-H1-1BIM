@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova-H1-1BIM", "Prova-H1-1BIM.csproj", "{439915F8-9451-41CF-86EC-6DCA41A094F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{439915F8-9451-41CF-86EC-6DCA41A094F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439915F8-9451-41CF-86EC-6DCA41A094F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439915F8-9451-41CF-86EC-6DCA41A094F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439915F8-9451-41CF-86EC-6DCA41A094F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E780416-3D54-4668-9026-80B2CE0D3B9E}
+	EndGlobalSection
+EndGlobal
